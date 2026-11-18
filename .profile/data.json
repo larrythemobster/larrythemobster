@@ -1,0 +1,251 @@
+{
+ "key": "bc520131",
+ "stars": 12,
+ "contributions": 2677,
+ "repos": 5,
+ "followers": 2,
+ "languages": [
+  [
+   "C++",
+   9312448
+  ],
+  [
+   "CMake",
+   96369
+  ],
+  [
+   "Python",
+   89014
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 12,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 40,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 21,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 24,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 32,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 34,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 34,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 21,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 18,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 14,
+  "longest": 14
+ },
+ "pins": [
+  {
+   "name": "OmniStats",
+   "url": "https://github.com/larrythemobster/OmniStats",
+   "text": "Rocket League overlay and second-monitor dashboard for Windows, with lobby ranks, live stats, MMR tracking, and local match history. Native C++20.",
+   "fork": false,
+   "stars": 6,
+   "language": "C++",
+   "topics": [
+    "cmake",
+    "cpp",
+    "gaming",
+    "match-history",
+    "overlay",
+    "rank-tracker",
+    "rocket-league",
+    "rocket-league-overlay",
+    "source-available",
+    "statistics"
+   ]
+  },
+  {
+   "name": "ObfuSQF-Remover",
+   "url": "https://github.com/larrythemobster/ObfuSQF-Remover",
+   "text": "Arma 3 ObfuSQF remover/deobfuscator with PBO parsing, Cprs decompression, include-chain recovery, checksum verification, and safe source extraction.",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "arma3",
+    "deobfuscation",
+    "modding",
+    "pbo",
+    "python",
+    "reverse-engineering",
+    "sqf",
+    "obfusqf"
+   ]
+  },
+  {
+   "name": "styx",
+   "url": "https://github.com/larrythemobster/styx",
+   "text": "Native Discord client built in C++20 with RmlUi",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "oci-a1-provisioner",
+   "url": "https://github.com/larrythemobster/oci-a1-provisioner",
+   "text": "OCI A1 instance provisioner with rate-limit backoff and protected file-based credentials",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "OmniStats",
+   "url": "https://github.com/larrythemobster/OmniStats",
+   "text": "Rocket League overlay and second-monitor dashboard for Windows, with lobby ranks, live stats, MMR tracking, and local match history. Native C++20.",
+   "fork": false,
+   "stars": 6,
+   "language": "C++",
+   "topics": [
+    "cmake",
+    "cpp",
+    "gaming",
+    "match-history",
+    "overlay",
+    "rank-tracker",
+    "rocket-league",
+    "rocket-league-overlay",
+    "source-available",
+    "statistics"
+   ]
+  },
+  {
+   "name": "oci-a1-provisioner",
+   "url": "https://github.com/larrythemobster/oci-a1-provisioner",
+   "text": "OCI A1 instance provisioner with rate-limit backoff and protected file-based credentials",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "styx",
+   "url": "https://github.com/larrythemobster/styx",
+   "text": "Native Discord client built in C++20 with RmlUi",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "ObfuSQF-Remover",
+   "url": "https://github.com/larrythemobster/ObfuSQF-Remover",
+   "text": "Arma 3 ObfuSQF remover/deobfuscator with PBO parsing, Cprs decompression, include-chain recovery, checksum verification, and safe source extraction.",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "arma3",
+    "deobfuscation",
+    "modding",
+    "pbo",
+    "python",
+    "reverse-engineering",
+    "sqf",
+    "obfusqf"
+   ]
+  },
+  {
+   "name": "larrythemobster",
+   "url": "https://github.com/larrythemobster/larrythemobster",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
