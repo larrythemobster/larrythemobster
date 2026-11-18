@@ -10,4 +10,6 @@
 
 <a href="https://github.com/larrythemobster/styx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-styx-dark.svg"><img src="assets/project-styx-light.svg" width="49%" alt="styx"></picture></a>&nbsp;<a href="https://github.com/larrythemobster/ObfuSQF-Remover"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-obfusqf-remover-dark.svg"><img src="assets/project-obfusqf-remover-light.svg" width="49%" alt="ObfuSQF-Remover"></picture></a>
 
+<a href="https://metawka.github.io/expressive-profile/?from=larrythemobster"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
