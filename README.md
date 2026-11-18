@@ -1,12 +1,11 @@
-## Hey!
+<div align="center">
 
-I'm Darrion, a developer from Manitoba, Canada. I like building software that solves actual problems.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Darrion"></picture>
 
-Currently working on [OmniStats](https://github.com/larrythemobster/OmniStats).
+<a href="https://discord.com/users/betgetter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="auto" alt="discord"></picture></a>&nbsp;<a href="mailto:contact@darrion.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="auto" alt="gmail"></picture></a>&nbsp;<a href="https://steamcommunity.com/id/KushGuy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="auto" alt="steam"></picture></a>&nbsp;<a href="https://darrion.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="auto" alt="globe_asia"></picture></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=larrythemobster&label=Profile%20views&color=6e7681&style=flat)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-### Contact
+<a href="https://metawka.github.io/expressive-profile/?from=larrythemobster"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-- Email: [122652323+larrythemobster@users.noreply.github.com](mailto:122652323+larrythemobster@users.noreply.github.com)
-- Discord: `betgetter`
+</div>

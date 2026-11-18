@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "login": "larrythemobster",
+  "seed": "#000000",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "streak",
+    "stats",
+    "about",
+    "wave",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Darrion",
+    "subtitle": "Building software that solves real problems.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Mantioba, Canada"
+      },
+      {
+        "icon": "code",
+        "label": "C++ / Python / Go"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Interested in software engineering and game development"
+      },
+      {
+        "icon": "computer",
+        "label": "Windows & Linux"
+      },
+      {
+        "icon": "stadia_controller",
+        "label": "Gamer and tech enthusiast"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "SQL"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:cashapp",
+            "label": "SQF"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:cmake",
+            "label": "CMake"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "Github Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "pixel-garden",
+      "dotfiles",
+      "tiny-weather",
+      "echo-bot"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/betgetter"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:contact@darrion.org"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/KushGuy"
+      },
+      {
+        "icon": "globe_asia",
+        "url": "https://darrion.org/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://darrion.org/",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
