@@ -140,10 +140,10 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "pixel-garden",
-      "dotfiles",
-      "tiny-weather",
-      "echo-bot"
+      "OmniStats",
+      "oci-a1-provisioner",
+      "styx",
+      "ObfuSQF-Remover"
     ],
     "overrides": {},
     "empty": "No description yet.",
